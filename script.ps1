@@ -32,4 +32,3 @@ choco install -y sql-server-management-studio
 choco install -y studio3t
 choco install -y chocolateygui
 choco install -y slack
-choco install -y resharper
