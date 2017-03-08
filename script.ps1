@@ -33,3 +33,4 @@ choco install -y studio3t
 choco install -y chocolateygui
 choco install -y slack
 choco install -y mongodb
+choco install -y fiddler4
