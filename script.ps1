@@ -36,3 +36,4 @@ choco install -y mongodb
 choco install -y fiddler4
 choco install -y webstorm
 choco install -y paint.net --allow-empty-checksums
+choco install -y clipx --allow-empty-checksums
