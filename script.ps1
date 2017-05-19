@@ -41,3 +41,4 @@ choco install -y postman
 choco install -y vlc
 choco install -y westwindwebsurge
 choco install -y heroku-cli
+choco install -y inkscape
