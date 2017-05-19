@@ -42,3 +42,4 @@ choco install -y vlc
 choco install -y westwindwebsurge
 choco install -y heroku-cli
 choco install -y inkscape
+choco install -y winmerge
