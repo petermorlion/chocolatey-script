@@ -45,3 +45,4 @@ choco install -y inkscape
 choco install -y winmerge
 choco install -y bfg-repo-cleaner
 choco install -y logparserstudio
+choco install -y spotify
