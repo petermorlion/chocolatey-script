@@ -27,10 +27,8 @@ choco install -y openinvscode
 choco install -y pycharm-community
 choco install -y vcredist2015
 choco install -y visualstudio2015community
-choco install -y visualfsharptools
 choco install -y sql-server-management-studio
 choco install -y studio3t
-choco install -y chocolateygui
 choco install -y slack
 choco install -y mongodb
 choco install -y fiddler4
