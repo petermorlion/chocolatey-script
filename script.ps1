@@ -45,3 +45,6 @@ choco install -y bfg-repo-cleaner
 choco install -y logparserstudio
 choco install -y spotify
 choco install -y docker-for-windows
+
+# Install VS2017 manually
+# Install SQL Server manually: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
