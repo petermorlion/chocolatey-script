@@ -16,7 +16,6 @@ choco install -y filezilla
 choco install -y gimp
 choco install -y git
 choco install -y git.install
-choco install -y github
 choco install -y gitkraken
 choco install -y GoogleChrome
 choco install -y nodejs
@@ -27,8 +26,10 @@ choco install -y openinvscode
 choco install -y pycharm-community
 choco install -y vcredist2015
 choco install -y visualstudio2015community
+choco install -y visualfsharptools
 choco install -y sql-server-management-studio
 choco install -y studio3t
+choco install -y chocolateygui
 choco install -y slack
 choco install -y mongodb
 choco install -y fiddler4
@@ -46,5 +47,7 @@ choco install -y logparserstudio
 choco install -y spotify
 choco install -y docker-for-windows
 
-# Install VS2017 manually
-# Install SQL Server manually: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+# Install manually:
+# SQL Server (Developer Edition)
+# Visual Studio 2017
+# ReSharper
