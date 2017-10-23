@@ -44,3 +44,4 @@ choco install -y docker-for-windows
 # Visual Studio 2017
 # ReSharper
 # JMeter
+# ORMProfiler
