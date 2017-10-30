@@ -45,3 +45,6 @@ choco install -y docker-for-windows
 # ReSharper
 # JMeter
 # ORMProfiler
+
+# Mongo service:
+# Create directories and run: mongod --logpath c:\mongodb\logs\mongo.log --dbpath c:\mongodb\data\db --directoryperdb --install
