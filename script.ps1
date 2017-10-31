@@ -48,3 +48,9 @@ choco install -y docker-for-windows
 
 # Mongo service:
 # Create directories and run: mongod --logpath c:\mongodb\logs\mongo.log --dbpath c:\mongodb\data\db --directoryperdb --install
+
+# ClipX:
+# - Close ClipX (right click on ClipX icon in system tray > Exit)
+# - Start ClipX as administrator (right click on the ClipX shortcut > Run as Administrator)
+# - Enable option "Run ClipX on Startup" and save changes
+# - Exit ClipX and then restart normally (not as administrator)
