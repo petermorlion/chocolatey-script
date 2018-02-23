@@ -9,9 +9,9 @@ if (Get-Command choco -errorAction SilentlyContinue)
 
 choco install -y 7zip
 choco install -y 7zip.install
+choco install -y azure-cli
 choco install -y calibre
 choco install -y chocolatey
-choco install -y ChocolateyGUI
 choco install -y filezilla
 choco install -y gimp
 choco install -y git
@@ -23,23 +23,15 @@ choco install -y nodejs.install
 choco install -y skype
 choco install -y VisualStudioCode
 choco install -y openinvscode
-choco install -y pycharm-community
 choco install -y vcredist2015
-choco install -y visualstudio2015community
-choco install -y visualfsharptools
 choco install -y sql-server-management-studio
-choco install -y studio3t
-choco install -y chocolateygui
 choco install -y slack
-choco install -y mongodb
 choco install -y fiddler4
-choco install -y webstorm
 choco install -y paint.net --allow-empty-checksums
 choco install -y clipx --allow-empty-checksums
 choco install -y postman
 choco install -y vlc
 choco install -y westwindwebsurge
-choco install -y heroku-cli
 choco install -y inkscape
 choco install -y winmerge
 choco install -y bfg-repo-cleaner
@@ -51,3 +43,4 @@ choco install -y docker-for-windows
 # SQL Server (Developer Edition)
 # Visual Studio 2017
 # ReSharper
+# JMeter
