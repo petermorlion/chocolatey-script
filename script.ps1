@@ -38,6 +38,7 @@ choco install -y bfg-repo-cleaner
 choco install -y logparserstudio
 choco install -y spotify
 choco install -y docker-for-windows
+choco install -y firacode
 
 # Install manually:
 # SQL Server (Developer Edition)
