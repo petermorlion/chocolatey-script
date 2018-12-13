@@ -39,6 +39,7 @@ choco install -y logparserstudio
 choco install -y spotify
 choco install -y docker-for-windows
 choco install -y firacode
+choco install -y sysinternals
 
 # Install manually:
 # SQL Server (Developer Edition)
