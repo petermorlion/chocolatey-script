@@ -41,7 +41,6 @@ choco install -y docker-for-windows
 choco install -y firacode
 choco install -y sysinternals
 choco install -y windirstat
-choco install -y autohotkey
 
 # Install manually:
 # SQL Server (Developer Edition)
