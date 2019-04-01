@@ -25,7 +25,6 @@ choco install -y inkscape
 choco install -y winmerge
 choco install -y bfg-repo-cleaner
 choco install -y spotify
-choco install -y docker-for-windows
 choco install -y firacode
 choco install -y sysinternals
 choco install -y windirstat
