@@ -30,6 +30,7 @@ choco install -y sysinternals
 choco install -y windirstat
 choco install -y greenshot
 choco install -y autohotkey
+choco install -y powertoys
 
 # Install manually:
 # SQL Server (Developer Edition)
