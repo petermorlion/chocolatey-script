@@ -12,35 +12,24 @@ choco install -y chocolatey
 choco install -y filezilla
 choco install -y gimp
 choco install -y git.install
-choco install -y nodejs.install
 choco install -y VisualStudioCode
 choco install -y sql-server-management-studio
 choco install -y slack
 choco install -y paint.net --allow-empty-checksums
-choco install -y clipx --allow-empty-checksums
 choco install -y postman
 choco install -y vlc
 choco install -y westwindwebsurge
 choco install -y inkscape
-choco install -y winmerge
-choco install -y bfg-repo-cleaner
 choco install -y spotify
 choco install -y firacode
 choco install -y sysinternals
 choco install -y windirstat
 choco install -y greenshot
-choco install -y autohotkey
 choco install -y powertoys
-
-# Install manually:
-# SQL Server (Developer Edition)
-# Visual Studio 2017
-# ReSharper
-# JMeter
-# ORMProfiler
-
-# ClipX:
-# - Close ClipX (right click on ClipX icon in system tray > Exit)
-# - Start ClipX as administrator (right click on the ClipX shortcut > Run as Administrator)
-# - Enable option "Run ClipX on Startup" and save changes
-# - Exit ClipX and then restart normally (not as administrator)
+choco install -y robo3t
+choco install -y discord
+choco install -y handbrake
+choco install -y microsoft-teams
+choco install -y spotify
+choco install -y zoom
+choco install -y tiptoimanager
