@@ -33,3 +33,5 @@ choco install -y microsoft-teams
 choco install -y spotify
 choco install -y zoom
 choco install -y tiptoimanager
+choco install -y powertoys
+choco install -y 1password
