@@ -1,2 +1,2 @@
-# chocolatey-script
-My chocolatey script to get a new PC up and running
+# New PC Install Script
+Script to install apps on new PC.

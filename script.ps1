@@ -1,37 +1,23 @@
-Set-ExecutionPolicy Unrestricted
-
-if (Get-Command choco -errorAction SilentlyContinue)
-{
-    Write-Host "Chocolate is already installed"
-}else{
-    iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
-}
-
-choco install -y 7zip.install
-choco install -y chocolatey
-choco install -y filezilla
-choco install -y gimp
-choco install -y git.install
-choco install -y VisualStudioCode
-choco install -y sql-server-management-studio
-choco install -y slack
-choco install -y paint.net --allow-empty-checksums
-choco install -y postman
-choco install -y vlc
-choco install -y westwindwebsurge
-choco install -y inkscape
-choco install -y spotify
-choco install -y firacode
-choco install -y sysinternals
-choco install -y windirstat
-choco install -y greenshot
-choco install -y powertoys
-choco install -y robo3t
-choco install -y discord
-choco install -y handbrake
-choco install -y microsoft-teams
-choco install -y spotify
-choco install -y zoom
-choco install -y tiptoimanager
-choco install -y powertoys
-choco install -y 1password
+winget install -e --id FileZilla.FileZilla --accept-source-agreements --accept-package-agreements
+winget install -e --id GIMP.GIMP --accept-source-agreements --accept-package-agreements
+winget install -e --id Git.Git --accept-source-agreements --accept-package-agreements
+winget install -e --id Microsoft.VisualStudioCode --accept-source-agreements --accept-package-agreements
+winget install -e --id Microsoft.SQLServerManagementStudio --accept-source-agreements --accept-package-agreements
+winget install -e --id SlackTechnologies.Slack --accept-source-agreements --accept-package-agreements
+winget install -e --id dotPDNLLC.paintdotnet --accept-source-agreements --accept-package-agreements
+winget install -e --id Postman.Postman --accept-source-agreements --accept-package-agreements
+winget install -e --id VideoLAN.VLC --accept-source-agreements --accept-package-agreements
+winget install -e --id Inkscape.Inkscape --accept-source-agreements --accept-package-agreements
+winget install -e --id Spotify.Spotify --accept-source-agreements --accept-package-agreements
+winget install -e --id Greenshot.Greenshot --accept-source-agreements --accept-package-agreements
+winget install -e --id Microsoft.PowerToys --accept-source-agreements --accept-package-agreements
+winget install -e --id Microsoft.Teams --accept-source-agreements --accept-package-agreements
+winget install -e --id 1Password.1Password --accept-source-agreements --accept-package-agreements
+winget install -e --id alexx2000.DoubleCommander --accept-source-agreements --accept-package-agreements
+winget install -e --id OpenWhisperSystems.Signal --accept-source-agreements --accept-package-agreements
+winget install -e --id Docker.DockerDesktop --accept-source-agreements --accept-package-agreements
+winget install -e --id Oracle.MySQLWorkbench --accept-source-agreements --accept-package-agreements
+winget install -e --id BlenderFoundation.Blender --accept-source-agreements --accept-package-agreements
+winget install -e --id Google.Chrome --accept-source-agreements --accept-package-agreements
+winget install -e --id Flashforge.FlashPrint --accept-source-agreements --accept-package-agreements
+winget install -e --id TortoiseSVN.TortoiseSVN --accept-source-agreements --accept-package-agreements
