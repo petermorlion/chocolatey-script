@@ -12,3 +12,5 @@ I ran most of these as Admin, but don't think it's necessary.
   - Visual Studio
   - LLBLGen
   - FileZilla
+  - FlyWay
+- Modify bashrc for Git Bash and WSL
