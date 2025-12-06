@@ -1,10 +1,9 @@
-winget install -e --id FileZilla.FileZilla --accept-source-agreements --accept-package-agreements
-winget install -e --id GIMP.GIMP --accept-source-agreements --accept-package-agreements
+winget install -e --id GIMP.GIMP.3 --accept-source-agreements --accept-package-agreements
 winget install -e --id Git.Git --accept-source-agreements --accept-package-agreements
 winget install -e --id Microsoft.VisualStudioCode --accept-source-agreements --accept-package-agreements
 winget install -e --id Microsoft.SQLServerManagementStudio.21 --accept-source-agreements --accept-package-agreements
 winget install -e --id SlackTechnologies.Slack --accept-source-agreements --accept-package-agreements
-winget install -e --id dotPDNLLC.paintdotnet --accept-source-agreements --accept-package-agreements
+winget install -e --id dotPDN.PaintDotNet --accept-source-agreements --accept-package-agreements
 winget install -e --id Postman.Postman --accept-source-agreements --accept-package-agreements
 winget install -e --id VideoLAN.VLC --accept-source-agreements --accept-package-agreements
 winget install -e --id Inkscape.Inkscape --accept-source-agreements --accept-package-agreements
