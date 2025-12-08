@@ -15,5 +15,8 @@ I ran most of these as Admin, but don't think it's necessary.
     - FileZilla
     - FlyWay
   - Copy files in `copy-to-home` to home (in Windows and WSL)
+    - Except these files which are only for WSL:
+      - `.bashrc`
+      - `oh-my-posh-theme/`
   - Copy files in `doublecmd` to `C:\Users\peter\AppData\Roaming\doublecmd
   - Copy SSH keys
