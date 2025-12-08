@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <FavoriteTabsList>
+    <FavoriteTabs UniqueID="{DBBD5F02-25D4-426E-B82A-6FFEAE3C95D2}" Name="-"/>
+    <FavoriteTabs UniqueID="{152F135D-D4F0-46FF-BC75-808385C92BC5}" Name="-Submenu name"/>
+    <FavoriteTabs UniqueID="{A98E45A3-A704-470B-AEFE-504C619DD8BD}" Name="Drag here other entries" DestLeft="0" DestRight="1" ExistingKeep="5" SaveDirHistory="False"/>
+    <FavoriteTabs UniqueID="{9207FAD2-6B85-4847-81ED-F4C6A6E5BDF8}" Name="--"/>
+  </FavoriteTabsList>
+</doublecmd>

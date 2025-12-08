@@ -15,4 +15,5 @@ I ran most of these as Admin, but don't think it's necessary.
     - FileZilla
     - FlyWay
   - Copy files in `copy-to-home` to home (in Windows and WSL)
+  - Copy files in `doublecmd` to `C:\Users\peter\AppData\Roaming\doublecmd
   - Copy SSH keys
