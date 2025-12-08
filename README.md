@@ -8,9 +8,11 @@ I ran most of these as Admin, but don't think it's necessary.
 - Activate WSL
 - `Unblock-File .\script.ps1`
 - Run `script.ps1`
-- Install manually (if necessary):
-  - Visual Studio
-  - LLBLGen
-  - FileZilla
-  - FlyWay
-- Modify bashrc for Git Bash and WSL
+- Manual steps:
+  - Install (if necessary):
+    - Visual Studio
+    - LLBLGen
+    - FileZilla
+    - FlyWay
+  - Copy files in `copy-to-home` to home (in Windows and WSL)
+  - Copy SSH keys

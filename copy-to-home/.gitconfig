@@ -1,0 +1,18 @@
+[user]
+	email = peter.morlion@gmail.com
+	name = Peter Morlion
+[init]
+        defaultBranch = main
+[push]
+	default = simple
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore_global
+	fscache = true
+[alias]
+        co = checkout
+        br = branch
+        st = status
+        hist = log --pretty=format:\"%C(yellow)%h%C(reset) %ad | %s%C(green)%d%C(reset) [%C(magenta)%an%C(reset)]\" --graph --date=short
+[pull]
+	rebase = true
