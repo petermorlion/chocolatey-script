@@ -144,20 +144,8 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
-export DOCKER_HOST=tcp://localhost:2375
-
-# tabtab source for serverless package
-# uninstall by removing these lines or running `tabtab uninstall serverless`
-[ -f /mnt/c/Users/Peter/Projects/miaaguard/profile-connect/node_modules/tabtab/.completions/serverless.bash ] && . /mnt/c/Users/Peter/Projects/miaaguard/profile-connect/node_modules/tabtab/.completions/serverless.bash
-# tabtab source for sls package
-# uninstall by removing these lines or running `tabtab uninstall sls`
-[ -f /mnt/c/Users/Peter/Projects/miaaguard/profile-connect/node_modules/tabtab/.completions/sls.bash ] && . /mnt/c/Users/Peter/Projects/miaaguard/profile-connect/node_modules/tabtab/.completions/sls.bash
-# tabtab source for slss package
-# uninstall by removing these lines or running `tabtab uninstall slss`
-[ -f /mnt/c/Users/Peter/Projects/miaaguard/profile-connect/node_modules/tabtab/.completions/slss.bash ] && . /mnt/c/Users/Peter/Projects/miaaguard/profile-connect/node_modules/tabtab/.completions/slss.bash
-
 # Switch to home
 cd ~/
 
 #Oh-my-posh
-eval "$(oh-my-posh init bash --config ~/.poshthemes/paradox.omp.json)"
+eval "$(oh-my-posh init bash --config ~/.poshthemes/paradox-custom.omp.json)"
