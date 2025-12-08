@@ -20,3 +20,7 @@ I ran most of these as Admin, but don't think it's necessary.
       - `oh-my-posh-theme/`
   - Copy files in `doublecmd` to `C:\Users\peter\AppData\Roaming\doublecmd
   - Copy SSH keys and run `chmor 600` on them
+  - Install a NerdFont (`oh-my-posh font install`) like Meslo or UbuntuMono Nerd Font and
+    set it as font in Windows Terminal
+  - WSL:
+    - Install NVM
