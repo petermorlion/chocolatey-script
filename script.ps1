@@ -21,3 +21,4 @@ winget install -e --id Google.Chrome --accept-source-agreements --accept-package
 winget install -e --id Flashforge.FlashPrint --accept-source-agreements --accept-package-agreements
 winget install -e --id TortoiseSVN.TortoiseSVN --accept-source-agreements --accept-package-agreements
 winget install -e --id Canonical.Ubuntu.2404 --accept-source-agreements --accept-package-agreements
+winget install 9NQ7512CXL7T # Python Install Manager
